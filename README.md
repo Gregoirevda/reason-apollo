@@ -1,3 +1,7 @@
+# NOTE
+The reason-apollo bindings can be found in the official apollographql repository: 
+https://github.com/apollographql/reason-apollo
+
 ## Reason-apollo
 
 Easily use the Apollo Client 2 with ReasonML
